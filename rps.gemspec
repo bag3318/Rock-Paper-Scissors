@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.email       = '' # email is disclosed for privacy reasons
   s.files       = ["lib/rps.rb"]
   s.homepage    = 'https://github.com/bag3318/Rock-Paper-Scissors'
-  s.license       = 'MIT'
+  s.license     = 'MIT'
 end
