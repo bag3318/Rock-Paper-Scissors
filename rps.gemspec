@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.date        = '2010-04-28'
   s.summary     = "A rock paper scissors game!"
   s.description = "Play rock paper scissors!"
-  s.authors     = ["Brock Glatman"]
+  s.authors     = ["bag3318"] # name is disclosed for privacy reasons
   s.email       = '' # email is disclosed for privacy reasons
   s.files       = ["lib/rps.rb"]
   s.homepage    = 'https://github.com/bag3318/Rock-Paper-Scissors'
