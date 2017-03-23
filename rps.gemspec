@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.summary     = "A rock paper scissors game!"
   s.description = "Play rock paper scissors!"
   s.authors     = ["Brock Glatman"]
-  s.email       = ''
+  s.email       = '' # email is disclosed for privacy reasons
   s.files       = ["lib/rps.rb"]
-  s.homepage    = ''
+  s.homepage    = 'https://github.com/bag3318/Rock-Paper-Scissors'
   s.license       = 'MIT'
 end
